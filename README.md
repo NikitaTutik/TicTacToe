@@ -7,6 +7,6 @@ Suppose the bottom left cell has the coordinates (1, 1) and the top right cell h
 (1, 1) (2, 1) (3, 1)
 
 E.g.
-Enter the coordinates: > 1 1
+Enter the coordinates: > 1 1 
 Enter the coordinates: > 2 3
 Enter the coordinates: > 3 1
